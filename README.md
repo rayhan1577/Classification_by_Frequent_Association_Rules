@@ -15,7 +15,7 @@ $ pip3 install  -r requirements.txt
 # Execution
 To run on terminal: 
 ```
-python3 Deal.py
+python3 cfar.py
 ```
 For different dataset change at line number 58.
 
