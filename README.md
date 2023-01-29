@@ -13,7 +13,8 @@ $ pip3 install  -r requirements.txt
 
 ```
 # Execution
-To run on terminal: python3 Deal.py
+To run on terminal: 
+$ python3 Deal.py
 For different dataset change at line number 58.
 
 # Data
