@@ -15,9 +15,12 @@ $ pip3 install  -r requirements.txt
 # Execution
 To run on terminal: 
 ```
-python3 cfar.py
+python3 CFAR.py
 ```
-For different dataset change at line number 58.
+for different dataset change at Line number 56.
+To print the rules of base learners, at line 129, change the last parameter as "True" 
+Rules produced by the base learners are saved in savedrules.txt.
+To print the rules of CFAR, at line 153, change the last parameter as "True"
 
 # Data
 Given dataset was used for the project
